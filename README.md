@@ -12,6 +12,10 @@ To guide the installation of CGAL (a requirement) and its dependencies, there is
 in the folder *installation* with a .sh file (`cgal.sh`) specifying packages and installation.
 Modify to your use. There is also a .sh file (`optiperslp.sh`) to install OptiPersLP.
 
+The python packages required are:
+- numpy
+- umap
+
 ## Usage
 The pipeline to use the algorithms is given in the figure below.
 ![Pipeline](images/pipeline.png)
